@@ -64,6 +64,10 @@
     margin-left: 0.7rem;
     transition: 0.3s;
   }
+  .boton {
+    text-decoration: none;
+    color: black;
+  }
   .social-cntr div:hover,
   #home button:hover,
   #contact .sub-btn:hover {
